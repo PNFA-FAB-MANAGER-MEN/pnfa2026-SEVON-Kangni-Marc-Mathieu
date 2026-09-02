@@ -4,14 +4,17 @@
 
 ## Énoncé du besoin
 
-À qui le dispositif rend-il service ? Sur quoi agit-il ? Dans quel but ?
+- Le dispositif est destiné à tout usager de la cantine d'un établissement scolaire.
+- Intulé du projet: Détection de gaz (combustibles) dans une cantine scolaire
+- Le dispositif sert à prévenir les incendies et participe à l'évacuation des usagers.
+
 
 ## Fonctions de service et contraintes
 
-| Réf. | Fonction | Critère | Niveau visé | Flexibilité |
-|---|---|---|---|---|
-| FS1 | | | | |
-| FC1 | | | | |
+| Réf. | Fonction          | Critère | Niveau visé | Flexibilité |
+|---   |---                |---      |---          |---          |
+| FS1  |                   |         |             |             |
+| FC1  |                   |         |             |             |
 
 ## Déclinaison des exigences fonctionnelles du programme
 
